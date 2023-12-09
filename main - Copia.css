@@ -50,15 +50,3 @@ Texto 01{
     color: #f2f2f7;
     font-size: 10px;
 }
-
-
-.animacao{
-    width: 250px;
-    height: 250px;
-    background-color: #12ccec;
-    content: 'este eh um texto vindo do css';
-    position: absolute;
-    top: 55px;
-    left: 10px;
-    color: #000;
-}
